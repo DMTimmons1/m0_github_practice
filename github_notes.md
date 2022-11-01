@@ -8,3 +8,4 @@ To check your own understanding of GitHub, answer the questions that follow.
 
 1. **What is the difference between forking and cloning a repository?** 
 
+- Forking a repository means that you are copying the repository remotely on your own cloud. Cloning a repository means you're copying the repository on your device locally.
